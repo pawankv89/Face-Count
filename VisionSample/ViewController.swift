@@ -1,15 +1,10 @@
-# Face-Count
-## Persion face detection demo
-
-Added Some screens here.
-
-![](https://github.com/pawankv89/Face-Count/blob/master/images/screen_1.png)
-
-## Usage
-
-#### Controller
-
-```swift
+//
+//  ViewController.swift
+//  VisionSample
+//
+//  Created by Benoit PASQUIER on 05/12/2017.
+//  Copyright © 2017 Benoit PASQUIER. All rights reserved.
+//
 
 import UIKit
 import CoreML
@@ -159,19 +154,3 @@ extension UIImage {
         }
     }
 }
-
-```
-
-## Requirements
-
-### Build
-
-Xcode Version 11.3 (11C29), iOS 13.2.0 SDK
-
-## License
-
-This code is distributed under the terms and conditions of the [MIT license](LICENSE).
-
-## Change-log
-
-A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
